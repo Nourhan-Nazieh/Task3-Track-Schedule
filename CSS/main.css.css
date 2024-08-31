@@ -9,6 +9,12 @@ body{
 
 }
 
+.title{
+ position: absolute;
+ top: 50px;
+ left: 33%;
+ color: rgba(226, 217, 255, 0.875);    
+}
 
 
 
@@ -103,7 +109,6 @@ box-sizing: border-box;
    padding-bottom: 5px;
 
 }
-
 
 .over p{
     display: inline;
